@@ -1,0 +1,7 @@
+../Core/Src/SoftwareTimers.c:12:6:SoftwareTimer_Init	8	static
+../Core/Src/SoftwareTimers.c:17:6:StartAndResetTimer	16	static
+../Core/Src/SoftwareTimers.c:23:6:StopAndResetTimer	16	static
+../Core/Src/SoftwareTimers.c:29:6:StartTimer	16	static
+../Core/Src/SoftwareTimers.c:34:6:StopTimer	16	static
+../Core/Src/SoftwareTimers.c:39:6:ResetTimer	16	static
+../Core/Src/SoftwareTimers.c:44:6:CheckActiveAndIncrementTimer	16	static

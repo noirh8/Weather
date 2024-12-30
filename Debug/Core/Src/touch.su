@@ -1,0 +1,6 @@
+../Core/Src/touch.c:23:16:SpiTransfer	32	static
+../Core/Src/touch.c:41:13:GetPointRaw	72	static
+../Core/Src/touch.c:125:6:TouchIsTouched	16	static
+../Core/Src/touch.c:131:6:TouchGetCalibratedPoint	40	static
+../Core/Src/touch.c:175:6:TouchCalibrate	64	static
+../Core/Src/touch.c:204:6:checkXY	32	static

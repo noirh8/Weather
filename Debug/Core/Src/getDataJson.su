@@ -1,0 +1,7 @@
+../Core/Src/getDataJson.c:15:5:stringToInt	24	static
+../Core/Src/getDataJson.c:27:5:getDataTemp	16	static
+../Core/Src/getDataJson.c:35:5:getDataWind	16	static
+../Core/Src/getDataJson.c:43:5:getDataCodeWeather	16	static
+../Core/Src/getDataJson.c:51:6:getDailyTime	24	static
+../Core/Src/getDataJson.c:60:5:getDataDay	16	static
+../Core/Src/getDataJson.c:65:7:getDataMonth	24	static

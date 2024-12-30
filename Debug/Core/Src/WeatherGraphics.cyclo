@@ -1,0 +1,11 @@
+../Core/Src/WeatherGraphics.c:8:15:Button	1
+../Core/Src/WeatherGraphics.c:18:15:optionScreen	1
+../Core/Src/WeatherGraphics.c:37:15:waitingScreen	1
+../Core/Src/WeatherGraphics.c:73:15:weatherStation	1
+../Core/Src/WeatherGraphics.c:114:15:weatherStation1	1
+../Core/Src/WeatherGraphics.c:165:15:weatherStation2	1
+../Core/Src/WeatherGraphics.c:211:15:displayNextDay2	1
+../Core/Src/WeatherGraphics.c:230:15:displayNextDay1	1
+../Core/Src/WeatherGraphics.c:250:15:displayNextDay	1
+../Core/Src/WeatherGraphics.c:269:17:iconWeather	26
+../Core/Src/WeatherGraphics.c:289:17:iconWeatherMinor	26

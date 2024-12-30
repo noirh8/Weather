@@ -1,0 +1,26 @@
+# STM32 build files
+*.o
+*.d
+*.elf
+*.bin
+*.hex
+*.map
+*.a
+*.out
+
+# IDE files
+*.launch
+*.uvoptx
+*.uvprojx
+*.cproject
+*.project
+*.swp
+*.bak
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# OS-specific files
+.DS_Store
+Thumbs.db

@@ -1,0 +1,6 @@
+../Core/Src/FunctionPointer.c:6:6:initFunctionList	16	static
+../Core/Src/FunctionPointer.c:15:6:addFunction	16	static
+../Core/Src/FunctionPointer.c:28:6:removeLastFunction	16	static
+../Core/Src/FunctionPointer.c:42:6:callLastFunction	16	static
+../Core/Src/FunctionPointer.c:55:6:callFirstFunction	16	static
+../Core/Src/FunctionPointer.c:67:6:clearAllFunctions	16	static

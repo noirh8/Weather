@@ -1,0 +1,2 @@
+../Core/Src/JSONParseSimple.c:15:6:GetParametersValue	48	static
+../Core/Src/JSONParseSimple.c:78:6:GetParametersValueForecast	88	static

@@ -1,0 +1,8 @@
+../Core/Src/SkyWar.c:29:6:initMainPlane	8	static
+../Core/Src/SkyWar.c:50:6:mainPlaneUsed	16	static
+../Core/Src/SkyWar.c:105:6:mission3	192	static
+../Core/Src/SkyWar.c:164:6:mission2	104	static
+../Core/Src/SkyWar.c:221:6:mission1	88	static
+../Core/Src/SkyWar.c:302:6:displayMenuGameScreen	16	static
+../Core/Src/SkyWar.c:338:6:displayWaitingGameScreen	8	static
+../Core/Src/SkyWar.c:355:5:collisionCheck	24	static

@@ -1,0 +1,5 @@
+../Core/Src/ControlApp.c:11:6:appScreen	8	static
+../Core/Src/ControlApp.c:39:6:initApp	8	static
+../Core/Src/ControlApp.c:44:6:runScreen	8	static
+../Core/Src/ControlApp.c:49:6:controlButton	8	static
+../Core/Src/ControlApp.c:81:15:App	8	static
